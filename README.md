@@ -1,4 +1,3 @@
-# ruby-getting-started
 # Introduction to Rails - Getting Your Feet Wet
 
 This is the first project from the Introduction to Rails curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
